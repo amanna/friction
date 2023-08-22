@@ -15,6 +15,6 @@ $$
 \
 $$
 
-![alt text](https://github.com/amanna/Julia-codes/main/spring%20mass.png)
+![alt text](https://github.com/amanna/Julia-codes/blob/main/spring%20mass.png)
 
 
