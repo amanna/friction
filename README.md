@@ -15,4 +15,6 @@ $$
 \
 $$
 
+![alt text](https://github.com/amanna/Julia-codes/main/spring_mass.png?raw=true)
+
 
